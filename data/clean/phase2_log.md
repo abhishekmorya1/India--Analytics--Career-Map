@@ -1,0 +1,21 @@
+# Phase 2 log (roles + skills)
+
+- In-scope analytics postings: 4,508 of 97,550 (4.6%)
+  - Data Engineer: 1,702 postings, 457 with usable salary
+  - Data Scientist / ML: 1,261 postings, 171 with usable salary
+  - Business Analyst: 585 postings, 107 with usable salary
+  - BI / MIS / Reporting: 522 postings, 191 with usable salary
+  - Data Analyst: 438 postings, 73 with usable salary
+- Distinct raw skill tags in scope: 3,863 -> distinct canonical skills: 3,740
+- In-scope postings at the 8-tag cap: 90.6%
+- Core-skill postings: tags only -> tags + description (uplift):
+  - sql: 1,210 (26.8%) -> 1,657 (36.8%)
+  - python: 1,728 (38.3%) -> 2,114 (46.9%)
+  - power bi: 413 (9.2%) -> 545 (12.1%)
+  - tableau: 214 (4.7%) -> 388 (8.6%)
+  - excel: 262 (5.8%) -> 304 (6.7%)
+  - aws: 483 (10.7%) -> 838 (18.6%)
+  - azure: 305 (6.8%) -> 816 (18.1%)
+  - spark: 665 (14.8%) -> 807 (17.9%)
+  - snowflake: 292 (6.5%) -> 453 (10.0%)
+- Saved: analytics_jobs.csv (4,508 rows), job_skills.csv (37,615 rows), skills_dim.csv (3,740 skills)

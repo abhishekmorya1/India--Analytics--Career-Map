@@ -1,0 +1,18 @@
+role,exp_band,n_salaries,median_lpa
+BI / MIS / Reporting,0-2,95,3.1
+BI / MIS / Reporting,3-5,75,7.5
+BI / MIS / Reporting,6-8,18,16.5
+Business Analyst,0-2,35,4.4
+Business Analyst,3-5,45,10.5
+Business Analyst,6-8,20,17.5
+Data Analyst,0-2,25,5.3
+Data Analyst,3-5,32,11.5
+Data Analyst,6-8,14,19.0
+Data Engineer,0-2,16,6.3
+Data Engineer,3-5,196,17.5
+Data Engineer,6-8,178,20.0
+Data Engineer,9-12,65,25.0
+Data Scientist / ML,0-2,29,10.0
+Data Scientist / ML,3-5,72,16.5
+Data Scientist / ML,6-8,45,25.0
+Data Scientist / ML,9-12,23,32.5

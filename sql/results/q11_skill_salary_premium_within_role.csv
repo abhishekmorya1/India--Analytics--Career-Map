@@ -1,0 +1,20 @@
+role,skill,n_with_skill,median_with,n_without_skill,median_without,diff_lpa
+BI / MIS / Reporting,sql,54,13.5,137,3.4,10.1
+BI / MIS / Reporting,power bi,64,10.0,127,3.3,6.8
+BI / MIS / Reporting,tableau,36,9.8,155,3.5,6.3
+BI / MIS / Reporting,excel,118,3.4,73,11.0,-7.6
+Business Analyst,sql,20,12.0,87,10.0,2.0
+Data Analyst,sql,33,15.0,40,8.0,7.0
+Data Analyst,python,21,14.0,52,8.0,6.0
+Data Analyst,tableau,29,12.5,44,7.9,4.6
+Data Analyst,power bi,36,8.5,37,10.0,-1.5
+Data Analyst,excel,28,6.5,45,13.0,-6.5
+Data Engineer,azure,129,22.5,328,20.0,2.5
+Data Engineer,aws,165,20.0,292,19.3,0.8
+Data Engineer,spark,286,20.0,171,20.0,0.0
+Data Engineer,python,247,19.3,210,20.0,-0.8
+Data Engineer,sql,209,17.5,248,20.0,-2.5
+Data Scientist / ML,python,122,22.5,49,17.0,5.5
+Data Scientist / ML,aws,29,17.0,142,22.0,-5.0
+Data Scientist / ML,azure,35,17.5,136,22.5,-5.0
+Data Scientist / ML,sql,30,15.5,141,21.3,-5.8

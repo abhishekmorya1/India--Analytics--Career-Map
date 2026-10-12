@@ -1,0 +1,41 @@
+role,skill_rank,skill,postings,pct_of_role_postings
+BI / MIS / Reporting,1,power bi,210,40.2
+BI / MIS / Reporting,2,sql,195,37.4
+BI / MIS / Reporting,3,excel,185,35.4
+BI / MIS / Reporting,4,mis reporting,146,28.0
+BI / MIS / Reporting,5,business intelligence,144,27.6
+BI / MIS / Reporting,6,tableau,113,21.6
+BI / MIS / Reporting,7,data analysis,85,16.3
+BI / MIS / Reporting,8,data visualization,73,14.0
+Business Analyst,1,business analysis,339,57.9
+Business Analyst,2,project management,134,22.9
+Business Analyst,3,sql,108,18.5
+Business Analyst,4,agile,84,14.4
+Business Analyst,5,data analysis,70,12.0
+Business Analyst,6,gap analysis,57,9.7
+Business Analyst,7,requirement gathering,55,9.4
+Business Analyst,8,power bi,52,8.9
+Data Analyst,1,data analysis,210,47.9
+Data Analyst,2,python,209,47.7
+Data Analyst,3,sql,198,45.2
+Data Analyst,4,power bi,150,34.2
+Data Analyst,5,tableau,113,25.8
+Data Analyst,6,data analytics,104,23.7
+Data Analyst,7,business intelligence,78,17.8
+Data Analyst,8,data visualization,73,16.7
+Data Engineer,1,python,974,57.2
+Data Engineer,2,sql,907,53.3
+Data Engineer,3,spark,737,43.3
+Data Engineer,4,aws,522,30.7
+Data Engineer,5,azure,472,27.7
+Data Engineer,6,scala,406,23.9
+Data Engineer,7,etl,388,22.8
+Data Engineer,8,snowflake,383,22.5
+Data Scientist / ML,1,python,828,65.7
+Data Scientist / ML,2,machine learning,798,63.3
+Data Scientist / ML,3,artificial intelligence,382,30.3
+Data Scientist / ML,4,tensorflow,336,26.6
+Data Scientist / ML,5,nlp,305,24.2
+Data Scientist / ML,6,azure,275,21.8
+Data Scientist / ML,7,aws,273,21.6
+Data Scientist / ML,8,pytorch,272,21.6
